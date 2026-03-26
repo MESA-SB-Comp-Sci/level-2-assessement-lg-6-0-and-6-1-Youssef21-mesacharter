@@ -2,3 +2,56 @@
     box-sizing: border-box;
 }
 
+.p1 {
+    color: yellow;
+    background-color: gray;
+    
+}
+
+.m {
+    background-color: gray;
+}
+
+H1 {
+    color: white;
+    background-color: pink;
+}
+
+
+.p2 {
+    color: yellowgreen;
+}
+
+.p3 {
+    color: lightblue;
+}
+
+h2 {
+    border: 200px;
+    border-color: white;
+    border-width: 200px;
+}
+
+.p5 {
+    color: white;
+}
+
+.p6 {
+    color:white;
+}
+
+#f {
+    background-color: gray;
+}
+
+html {
+    background-color: gray;
+}
+
+.border1 {
+    border: 1px solid orange;
+    background-color: white;
+    border-length: 20px;
+    padding: 1%;
+}
+
